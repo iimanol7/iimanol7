@@ -53,7 +53,7 @@
       <h4 align="center">Python-based tool that automates Nmap scans and Known vulnerability detection</h4>
       <ul>
         <li><b>Main feature: </b> Vulnerability detection based on CVE databases</li>
-        <li><b>Language: </b> Python</li>
+        <li><b>Tools: </b> Python, Nmap, OWASP Top 10</li>
       </ul>
     </td>
   </tr>
