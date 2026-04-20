@@ -2,9 +2,9 @@
 
 ###
 
-<p align="center">🇬🇧 Here I will be uploading personal projects that I develop as part of my continuous learning and practice. All of them are focused on the tech world: networking, cybersecurity, cloud, scripting, etc.</p>
+<p>🇬🇧 Here I will be uploading personal projects that I develop as part of my continuous learning and practice. All of them are focused on the tech world: networking, cybersecurity, cloud, scripting, etc.</p>
 <br>
-<p align="center">🇪🇸 Aquí estaré subiendo proyectos personales que desarrollo como parte de mi proceso de aprendizaje continuo y práctica. Todos ellos enfocados en el mundo tech: redes, ciberseguridad, cloud, scripting, etc.</p>
+<p>🇪🇸 Aquí estaré subiendo proyectos personales que desarrollo como parte de mi proceso de aprendizaje continuo y práctica. Todos ellos enfocados en el mundo tech: redes, ciberseguridad, cloud, scripting, etc.</p>
 <br>
 
 ###
